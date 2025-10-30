@@ -190,35 +190,6 @@ The `next.config.mjs` is configured for static export:
 - Safari 14+
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-**Joe Baarath S/O Sellathurai**
-- Email: [joebaarath@hotmail.com](mailto:joebaarath@hotmail.com)
-- GitHub: [@joebaarath](https://github.com/joebaarath)
-- LinkedIn: [joebaarath](https://www.linkedin.com/in/joebaarath/)
-
-## 🙏 Acknowledgments
-
-- Design inspiration from Blade Runner 2049
-- shadcn/ui for beautiful component primitives
-- Framer Motion for smooth animations
-- TailwindCSS for utility-first styling
-- Next.js team for the amazing framework
-
----
-
-**Built with ❤️ by Joe Baarath**
 
 
