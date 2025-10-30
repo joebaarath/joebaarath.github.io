@@ -1,8 +1,6 @@
 # Joe Baarath - AI Engineer Portfolio
 
-A modern, futuristic portfolio website built with Next.js 15, TypeScript, TailwindCSS, and Framer Motion, inspired by the Blade Runner 2049 aesthetic. Designed for deployment on GitHub Pages.
-
-![Portfolio Preview](https://via.placeholder.com/1200x630/000000/00ffff?text=Joe+Baarath+-+AI+Engineer+Portfolio)
+A modern, futuristic portfolio website built with Next.js 15, TypeScript, TailwindCSS, and Framer Motion, inspired by the Blade Runner 2049 aesthetic. 
 
 ## 🚀 Features
 
