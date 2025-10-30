@@ -206,7 +206,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Joe Baarath S/O Sellathurai**
 - Email: [joebaarath@hotmail.com](mailto:joebaarath@hotmail.com)
-- Phone: +65 92328164
 - GitHub: [@joebaarath](https://github.com/joebaarath)
 - LinkedIn: [joebaarath](https://www.linkedin.com/in/joebaarath/)
 
