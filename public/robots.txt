@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joebaarath.github.io/sitemap.xml
+
+

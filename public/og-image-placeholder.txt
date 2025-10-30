@@ -1,0 +1,20 @@
+# Placeholder for Open Graph Image
+
+This file serves as a placeholder for the Open Graph image (og-image.jpg) that should be placed in the public directory.
+
+The image should be:
+- 1200x630 pixels
+- JPG format
+- Contains your name "Joe Baarath" and title "AI Engineer"
+- Uses the Blade Runner aesthetic with dark background and neon accents
+- Optimized for social media sharing
+
+You can create this image using:
+- Figma or Adobe Creative Suite
+- Online tools like Canva
+- AI image generators
+- Or any design tool of your choice
+
+Place the final image as `public/og-image.jpg` to replace this placeholder.
+
+

@@ -1,0 +1,14 @@
+# Favicon Instructions
+
+Create a favicon.ico file (16x16, 32x32, 48x48 pixels) with:
+- Dark background
+- Neon cyan "JB" initials
+- Blade Runner aesthetic
+- Place in the public directory as favicon.ico
+
+You can generate this using:
+- Online favicon generators
+- Design tools like Figma
+- Or use a simple text-based favicon generator
+
+
